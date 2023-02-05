@@ -1,0 +1,135 @@
+.heading-area{
+    width: 100%;
+    height: 13rem;
+    text-decoration: none;
+    background-color: #282c34;
+    color: #E49B0F;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    display: inline-block;
+    text-decoration: none;
+    color: #E49B0F;
+    margin-left:  350px;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    font-size: 18px;
+}
+.nav:hover{
+    color: aliceblue;
+}
+.app-name{
+    font-size: 24px;
+    letter-spacing: -1.2px;
+}
+.faq{
+    letter-spacing: 2px;
+}
+.formin{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 15px;
+}
+.btns{
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin: 10px;
+    font-weight: 400;
+    padding: 8px 20px 8px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.find-btn{
+    color: aliceblue;
+    background-color: #E49B0F;
+}
+.find-btn:hover{
+    background-color: aliceblue;
+    color: #E49B0F;
+}
+.reset-btn{
+   background-color: aliceblue;
+}
+.reset-btn:hover{
+    color: #282c34;
+    background-color: grey;
+}
+.subtext{
+    font-size: 14px;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+}
+.subtext > p > a {
+    cursor: pointer;
+}
+.subtext > p > a:hover
+{
+    color: aliceblue;
+}
+.footer-area{
+    height: 5rem;
+    width: 100%;
+    position: absolute !important;
+    text-decoration: none;
+    background-color: #282c34;
+    color: #E49B0F;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.footer-text{
+    text-decoration: underline;
+  -webkit-text-decoration-color: aliceblue; /* Safari */  
+  text-decoration-color: aliceblue;
+    padding-top: 10px;
+    font-size: 18px;
+    letter-spacing: -1.2px;   
+}
+.footer-subtext{
+    padding-bottom: 10px;
+    font-size: 14px;
+    letter-spacing: 2px;   
+}
+.na-card{
+    min-height: calc(100vh - 13rem - 5rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #282c34;
+    background-color: #E49B0F;
+}
+.na-text{
+    font-size: 26px;
+}
+
+.grid-container {
+    min-height: calc(100vh - 13rem - 5rem);
+    display: grid;
+    grid-template-columns: 200px 200px;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+    background-color: #E49B0F;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, .5);
+  }
+  .name{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+  }
+  .username{
+    font-size: 14px;
+    letter-spacing: 1.2px;
+    color: gray;
+  }
+  .bio{
+    font-size: 16px;
+    letter-spacing: 1.6px;
+    font-style: italic;
+  }

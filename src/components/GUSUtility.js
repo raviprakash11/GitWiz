@@ -1,0 +1,11 @@
+export const BASE_URL = "";
+export const NAV_URL = "https://www.github.com/";
+export const APP_NAME = "GitWiz";
+export const APP_PAGE_NAME = "Profile Search Engine";
+export const SEARCH_PLACEHOLDER_TEXT = "Enter username here...";
+export const SUB_TEXT = "Had a confusion on finding username,";
+export const SUB_TEXT_BTN = "hit me!";
+export const FOOTER_TEXT = "GitWiz";
+export const FOOTER_SUB_TEXT = "Made with 🧡";
+export const TOAST_HELP_TEXT = "Login on Github Account, Navigate to your profile and check your url in the browser www.github.com/username";
+export const FAQ_TEXT = "FAQ";
