@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/gitwiz/static/css/main.0377c129.css",
-    "main.js": "/gitwiz/static/js/main.74b9cb8a.js",
+    "main.js": "/gitwiz/static/js/main.a81113ef.js",
     "static/js/787.b4c2c93e.chunk.js": "/gitwiz/static/js/787.b4c2c93e.chunk.js",
-    "static/media/NA-Image.PNG": "/gitwiz/static/media/NA-Image.ee4321c7e312f9188e59.PNG",
     "index.html": "/gitwiz/index.html",
     "main.0377c129.css.map": "/gitwiz/static/css/main.0377c129.css.map",
-    "main.74b9cb8a.js.map": "/gitwiz/static/js/main.74b9cb8a.js.map",
+    "main.a81113ef.js.map": "/gitwiz/static/js/main.a81113ef.js.map",
     "787.b4c2c93e.chunk.js.map": "/gitwiz/static/js/787.b4c2c93e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0377c129.css",
-    "static/js/main.74b9cb8a.js"
+    "static/js/main.a81113ef.js"
   ]
 }
