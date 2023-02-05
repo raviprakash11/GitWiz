@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GitWiz/static/css/main.0377c129.css",
+    "main.css": "/GitWiz/static/css/main.a542bffc.css",
     "main.js": "/GitWiz/static/js/main.a63cc870.js",
     "static/js/787.b4c2c93e.chunk.js": "/GitWiz/static/js/787.b4c2c93e.chunk.js",
     "index.html": "/GitWiz/index.html",
-    "main.0377c129.css.map": "/GitWiz/static/css/main.0377c129.css.map",
+    "main.a542bffc.css.map": "/GitWiz/static/css/main.a542bffc.css.map",
     "main.a63cc870.js.map": "/GitWiz/static/js/main.a63cc870.js.map",
     "787.b4c2c93e.chunk.js.map": "/GitWiz/static/js/787.b4c2c93e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0377c129.css",
+    "static/css/main.a542bffc.css",
     "static/js/main.a63cc870.js"
   ]
 }
