@@ -27,7 +27,7 @@ const GUSHeader = function ({ handleSubmitUser, handleSearchUser }) {
           className="nav app-name"
         >
           {APP_NAME}
-        </a>{" "}
+        </a>
         / <span>{APP_PAGE_NAME}</span>
         <a href={NAV_URL} target="_blank" rel="noreferrer" className="nav faq">
           {FAQ_TEXT}
